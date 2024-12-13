@@ -1,0 +1,6 @@
+# reference link: https://www.geeksforgeeks.org/creating-payment-receipts-using-python/
+
+# pip3 install reportlab
+# command to run: python3 main.py
+
+# it will generate a pdf file .. open it outside vs code 
